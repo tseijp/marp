@@ -1,0 +1,22 @@
+{
+  "name": "marp-react-component-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@marp-team/marp-core": "0.6.0",
+    "@marp-team/marp-react": "0.0.1",
+    "react": "16.8.0",
+    "react-dom": "16.8.0",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test --env=jsdom",
+    "eject": "react-app-rewired eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
